@@ -1,0 +1,8 @@
+metric,value
+total,111897.0
+unique,66312.0
+duplicates,45585.0
+dup_pct,40.7
+overlap_pct,57.7
+dedup_total,66312.0
+dedup_qb,1975.0

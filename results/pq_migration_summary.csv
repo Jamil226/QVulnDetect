@@ -1,0 +1,4 @@
+Risk_Level,n_contracts,NIST_Standard,EVM_Path,HNDL_Urgency
+CRITICAL,3816,FIPS 204 (ML-DSA),EIP-7701 / Account Abstraction,Immediate
+HIGH,9491,VRF / Classical fix,Chainlink VRF / commit-reveal,Medium-term
+MEDIUM,90,Audit documentation,Risk documentation,Low

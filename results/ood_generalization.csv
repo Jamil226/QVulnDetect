@@ -1,0 +1,4 @@
+Test_Domain,Train_Size,Test_Size,OOD_AUC
+Reentrancy,8000,1000,0.979
+NonVulnerable,8000,1000,0.9984
+IntegerUO,8000,1000,0.9797

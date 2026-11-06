@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Large raw dataset files exceeding GitHub 100MB limit
+# (Full 2.2 GB source code collection; see data/README.md for download instructions)
+data/raw/SourceCodes.zip
+data/raw/Source Codes/
+data/raw/Source Codes/**
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Output logs and temporary files
+*.log
+scratch/

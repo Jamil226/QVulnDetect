@@ -1,0 +1,10 @@
+metric,value
+total_contracts,111897.0
+unique_families,66312.0
+singleton_families,37430.0
+clone_families,28882.0
+vuln_families,1975.0
+vuln_clone_families,1138.0
+cloned_vuln_instances,2979.0
+unique_vuln_templates,1138.0
+mean_amplification_ratio,2.618

@@ -1,0 +1,6 @@
+metric,value
+exact_dups,45585.0
+exact_dup_pct,40.7
+near_dups,169188.0
+near_dup_pct,151.2
+unique_near,-57291.0

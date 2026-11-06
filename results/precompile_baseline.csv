@@ -1,0 +1,2 @@
+method,note,best_col,AUC
+Precompile opcode proxy,Opcode-count proxy for CALL→0x01. Full resolution requires EVM disassembly.,Opcode Count Features_CALLDATASIZE,0.5207

@@ -1,0 +1,2 @@
+Total,Vulnerable,Vulnerable_Pct,Critical,Safe,Best_AUC_bytecode,ecrecover,timestamp_prng,blockhash_prng
+111897,13566,12.1,3816,98331,0.5197,3816,8335,3625

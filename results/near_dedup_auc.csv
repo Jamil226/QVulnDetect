@@ -1,0 +1,4 @@
+Dataset,Threshold,n,n_pos,AUC,F1,AP
+Full test set,—,22380,763,0.9968,0.742,0.916
+Exact-dedup (MD5),MD5-hash,9261,231,0.9975,0.768,0.932
+Near-dedup (MinHash LSH),Jac>=0.80,8814,218,0.9972,0.761,0.928

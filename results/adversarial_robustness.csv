@@ -1,0 +1,5 @@
+Strategy,AUC,Detect_Rate,FP_Rate,AUC_Drop
+Inline Assembly,1.0,0.0,0.0,-0.0142
+Proxy Delegation,1.0,0.0,0.0,-0.0142
+Renamed Variables,1.0,0.0,0.0,-0.0142
+Library Obfuscation,1.0,1.0,0.0,-0.0142

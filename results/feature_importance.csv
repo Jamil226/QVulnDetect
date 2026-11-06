@@ -1,0 +1,46 @@
+rank,token,coefficient,direction,role
+1,v,15.8317,vulnerable,"Recovery param: ecrecover(h,v,r,s)"
+2,bytes32,15.5952,vulnerable,Hash/sig param type in ecrecover
+3,signature,13.3243,vulnerable,ECDSA signing variable
+4,r,11.741,vulnerable,"Sig param: ecrecover(h,v,r,s)"
+5,uint8,10.6189,vulnerable,Type of v parameter
+6,nonce,10.1309,vulnerable,Replay protection in sig verify
+7,used,8.4886,vulnerable,ECDSA context token
+8,message,8.4841,vulnerable,Signed message variable
+9,let,7.492,vulnerable,ECDSA context token
+10,deposit,7.1859,vulnerable,ECDSA context token
+11,_fee,6.7747,vulnerable,ECDSA context token
+12,keccak256,6.7505,vulnerable,Pre-signing hash function
+13,agent,6.6108,vulnerable,ECDSA context token
+14,oraclize,6.5042,vulnerable,ECDSA context token
+15,mstore,6.1118,vulnerable,ECDSA context token
+16,base,5.8251,vulnerable,ECDSA context token
+17,hash,5.6462,vulnerable,Message hash variable
+18,uint value,5.4763,vulnerable,ECDSA context token
+19,args,5.4488,vulnerable,ECDSA context token
+20,locked,5.4327,vulnerable,ECDSA context token
+21,buffer,5.389,vulnerable,ECDSA context token
+22,copy,5.2879,vulnerable,ECDSA context token
+23,is the,5.1928,vulnerable,ECDSA context token
+24,games,5.1907,vulnerable,ECDSA context token
+25,caller,5.1157,vulnerable,ECDSA context token
+26,_owners,4.9833,vulnerable,ECDSA context token
+27,fees,4.931,vulnerable,ECDSA context token
+28,emit,4.7603,vulnerable,ECDSA context token
+29,n n,4.7151,vulnerable,ECDSA context token
+30,reputation,4.7129,vulnerable,ECDSA context token
+1,initial_supply,-5.3793,safe,safe pattern
+2,just,-5.3005,safe,safe pattern
+3,msg value,-4.5998,safe,safe pattern
+4,ok,-4.4736,safe,safe pattern
+5,values,-4.4439,safe,safe pattern
+6,internal constant,-4.2623,safe,safe pattern
+7,extcodesize,-4.2479,safe,safe pattern
+8,file zeppelin,-4.1896,safe,safe pattern
+9,that is,-4.1559,safe,safe pattern
+10,refund,-3.8727,safe,safe pattern
+11,stored,-3.8131,safe,safe pattern
+12,bytes4 keccak256,-3.7914,safe,safe pattern
+13,constructor public,-3.6955,safe,safe pattern
+14,freeze,-3.6897,safe,safe pattern
+15,to set,-3.629,safe,safe pattern
